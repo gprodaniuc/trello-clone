@@ -1,0 +1,5 @@
+/config/config.php
+/vendor/
+/node_modules/
+/public/js/*.min.js
+/public/css/*.min.css
